@@ -1,0 +1,12 @@
+numpy 
+pandas 
+nltk 
+seaborn 
+matplotlib 
+wordcloud 
+scikit-learn 
+yellowbrick 
+underthesea 
+bokeh
+wordcloud
+nltk
