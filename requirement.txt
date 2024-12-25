@@ -10,3 +10,7 @@ underthesea
 bokeh
 wordcloud
 nltk
+streamlit
+streamlit_option_menu
+underthesea
+selenium
